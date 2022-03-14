@@ -1,2 +1,2 @@
 # MichaelPaulGrosz.github.io
-Repository für EPIC Website
+Repository für ECIP Website
