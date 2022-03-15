@@ -1,0 +1,9 @@
+---
+title: "Resources"
+description: |
+  Content following soon.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
