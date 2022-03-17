@@ -1,0 +1,18 @@
+---
+title: "Members"
+description: |
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+- Ruben Arslan (Max-Planck-Institute for Human Development, Berlin)
+- Adam Ayaita (RWTH Aachen University)
+- Susanne Buecker (Ruhr University Bochum)
+- Tobias Ebert (Mannheim Centre for European Social Research)
+- Michael P. Grosz (University of Münster)
+- Sandrine Müller (University of Bielefeld)
+- Sven Rieger (University of Tübingen)
+- Julia M. Rohrer (University of Leipzig)
+- Alexandra Zapko-Wilmes (University of Bremen)
