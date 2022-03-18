@@ -1,7 +1,7 @@
 ---
 title: "ECIP"
 description: |
-  Despite causal inference being a central goal of scientific work, there currently is a shortage of empirical research on causal inferences and mechanisms in personality psychology. This has resulted in a divergence between empirical findings and theories, given that theories are usually concerned with causal effects and mechanisms. The ECIP (Explicit Causal Inference in Psychology) network is a scientific network aiming to reduce this divergence by demonstrating how personality researchers can effectively integrate causality into their work. To do so, we will elaborate on, apply, and demonstrate methods for drawing causal inferences in empirical research on personality.
+ The ECIP (Explicit Causal Inference in Psychology) network is a scientific network aiming to reduce this divergence by demonstrating how personality researchers can effectively integrate causality into their work. To do so, we will elaborate on, apply, and demonstrate methods for drawing causal inferences in empirical research on personality.
   
   knitr::include_graphics("files/logo.jpg")
   
