@@ -1,0 +1,16 @@
+---
+title: "Goals"
+description: |
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The main goals of the ECIP network are:
+
+- Collaborate on empirical studies and grant proposals that explicitly investigate causal effects involving personality
+- Develop a tutorial and guidelines for causal inference in personality science
+- Organize symposiums on causal inference in personality science at international conferences
+- Give give a pre-conference workshop for early career researchers on causal inference at the ECP 2022
+- Foster collaboration between psychologists and economists
